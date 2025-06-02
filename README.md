@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @cubingcow
-- 👀 I’m interested in Minecraft Modding
-- 🌱 I’m currently messing around with jar modding and discord bots
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @qbingcow
+- 👀 I’m interested in a ton of stuff
+- 🌱 I’m currently studying CS @ UCLA!
 
 <!---
 cubingcow/cubingcow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

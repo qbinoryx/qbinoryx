@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @qbingcow
+- 👋 Hi, I’m @qbinoryx
 - 👀 I’m interested in a ton of stuff
 - 🌱 I’m currently studying CS @ UCLA!
 
